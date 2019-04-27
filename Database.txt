@@ -1,0 +1,163 @@
+
+Conversation opened. 1 read message.
+
+Skip to content
+Using The University of Hong Kong Mail with screen readers
+
+4 of 7,095
+(no subject)
+Inbox
+x
+
+GAO, ENGE
+Attachments
+9:59 PM (1 hour ago)
+to me
+
+4 Attachments
+
+0
+100000001
+Amy
+M
+19
+Human Resource
+Director
+19991127
+20081001
+20401011
+35000
+On the work
+Rich
+1
+100000002
+Bill
+M
+21
+Human Resource
+Director
+19991126
+20081001
+20401011
+35000
+On the work
+Rich
+2
+100000003
+Cathy
+M
+22
+Human Resource
+Director
+19991123
+20081001
+20401011
+35000
+On the work
+Rich
+3
+100000004
+Dawn
+M
+56
+Human Resource
+Director
+19991124
+20081001
+20401011
+35000
+On the work
+Rich
+4
+100000005
+Ellen
+M
+43
+Human Resource
+Director
+19991121
+20081001
+20401011
+35000
+On the work
+Rich
+5
+100000006
+Frank
+M
+56
+Human Resource
+Director
+19991120
+20081001
+20401011
+35000
+On the work
+Rich
+6
+100000007
+Garry
+M
+43
+Human Resource
+Director
+19991127
+20081001
+20401011
+35032
+On the work
+Rich
+7
+100000008
+Helen
+M
+32
+Human Resource
+Director
+19991129
+20081001
+20401011
+35045
+On the work
+Rich
+8
+100000009
+Jack
+M
+53
+Human Resource
+Director
+19991124
+20081001
+20401011
+35065
+On the work
+Rich
+9
+100000010
+Kelly
+M
+25
+Human Resource
+Director
+19991122
+20081001
+20401011
+35045
+On the work
+Rich
+10
+100000011
+Leo
+M
+61
+Human Resource
+Director
+19991123
+20081001
+20401011
+35023
+On the work
+Rich
+input.txt
+Displaying input.txt.
