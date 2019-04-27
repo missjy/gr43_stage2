@@ -32,7 +32,7 @@ When using this system, the user should log in the system with his username and 
   
 ### **:thought_balloon:Functionalities and Features:thought_balloon:**
   
-  **Functionalities**
+  ##**Functionalities**##
 
   1. **Add the information of a new employee** (function name as: add_Employee)  
      This function is used to add a new employee to the system, which append all his/her information to the database. It requires the        administrator to enter the new employee's information piece by piece and initializes each person's employment status with 'on the        job'. After saving all the information into a form of a structure, which is standardized at first, **the system will print out the        information of the new employee**.  
@@ -56,7 +56,7 @@ When using this system, the user should log in the system with his username and 
      This function works as its name, reminder. It asks the administrator to enter a month number, then prints out the corresponding          people in three groups, which are birthday, entry date and expiration date, whose dates are in the same month as the input.              Moreover, the employees'name will be printed out along with its birthday, entry date and expiration date so that it's clear for the      user to aquire. In this way, the administrator can get the upcoming date in the certain month in an obvious way.
   
   
-  **Features**
+  ##**Features**##
   
   1. **Reminder:**  
      Our reminder is the highlight of our system. There's no need for the administrator to add the birthdays of all the employees to          his/her calendar. Instead, the administrator can just log into the system and aquire the upcoming dates. This can not only              guarantee the efficiency of the human source management, but also improve the relationship between employers and employees thus          make the whole unity more harmonious.
