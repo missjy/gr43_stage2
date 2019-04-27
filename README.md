@@ -52,7 +52,7 @@ When using this system, the user should log in the system with his username and 
   
   **Features**
   
-  1. Reminder:
+  1. **Reminder:**
      Our reminder is the highlight of our system. There's no need for the administrator to add the birthdays of all the employees to          his/her calendar. Instead, the administrator can just log into the system and aquire the upcoming dates. This can not only              guarantee the efficiency of the human source management, but also improve the relationship between employers and employees thus          make the whole unity more harmonious.
   2. Menu printing:
      Whenever our system needs the administrator to enter an order, we provide a specific menu for the user to form his/her input, which      will definitely make the program to run more efficiently.
@@ -98,6 +98,6 @@ When using this system, the user should log in the system with his username and 
  
  
  ### **:thought_balloon:Compilation and execution instructions:thought_balloon:**
-  **C++ environment**
+   **C++ environment**
 
 
