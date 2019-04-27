@@ -69,6 +69,7 @@ When using this system, the user should log in the system with his username and 
 ### **:thought_balloon:Input specifications:thought_balloon:**
 
   -ID: A 9-digit string
+  
   -Name: A string without blank space
   -Gender: A char which is “M” or “F”
   -Age: An integer bigger than 0 and less than 100
