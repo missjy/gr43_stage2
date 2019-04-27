@@ -1,0 +1,728 @@
+Sample test case 1.1 (user input in bold)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **01**
+*********************************************************
+
+Please enter the ID of the new employee: **300000000**
+Please enter the name of the new employee: **ENGG1340**
+Please enter the gender of the new employee: **M**
+Please enter the age of the new employee: **34**
+Please enter the department of the new employee: **Engineering**
+Please enter the position of the new employee: **Head**
+Please enter the birthday of the new employee: **19851001**
+Please enter the entry date of the new employee: **20081001**
+Please enter the expiration date of the new employee: **20401001**
+Please enter the salary of the new employee: **10000**
+Please enter the attribute of the new employee: **Allergic**
+
+ADDED SUCCESSFULLY!
+
+THE INFORMATION OF THE NEW EMPLOYEE ENGG1340 :
+ID                : 300000000
+NAME              : ENGG1340
+GENDER            : M
+AGE               : 34
+DEPARTMENT        : Engineering
+POSITION          : Head
+BIRTHDAY          : 19851001
+ENTRY DATE        : 20081001
+EXPIRTATION DATE  : 20401001
+SALARY            : 10000
+EMPLOYMENT STATUS : On the job
+ATTRIBUTE         : Allergic
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **08**
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.2 (user input in bold)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **02**
+*********************************************************
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Employment Status
+***************************
+Please enter the order number of the category that you want to search through:
+**4**
+Please enter the key words that you want to search for:
+**19**
+No.0
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Total 1 records.
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **08**
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.3 (user input in blue)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **03**
+*********************************************************
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Employment Status
+***************************
+Please enter the order number of the category that you want to search through:
+**4**
+Please enter the key words that you want to search for:
+**19**
+No.0
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Total 1 records.
+Please enter the sequence number of the employee you want to fire:**0**
+GaoEnge is fired!
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: **08**
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.4 (user input in bold)
+Please enter your username: **ENGG1340**
+Please enter your password: Programming
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 04
+*********************************************************
+
+Please enter the name of the employee you choose for information editing:Amy
+No.0
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Total 1 records
+Please enter the sequence number of the employee you want to edit:0
+THE INFORMATION OF Amy :
+ID                : 100000001
+NAME              : Amy
+GENDER            : M
+AGE               : 19
+DEPARTMENT        : Human Resource
+POSITION          : Director
+BIRTHDAY          : 19991127
+ENTRY DATE        : 20081001
+EXPIRTATION DATE  : 20401011
+SALARY            : 35000
+EXPLOYMENT STATUS : On the work
+ATTRIBUTE         : Rich
+
+
+Please make sure the employee above is the one you want to edit :)
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Salary
+  0  :  FINISH EDITING
+***************************
+Please enter the order number of the category that you want to edit:
+2
+This is the original name of Amy: Amy
+
+Please enter the new information:
+Allen
+
+THE NEW INFORMATION OF Allen :
+ID                : 100000001
+NAME              : Allen
+GENDER            : M
+AGE               : 19
+DEPARTMENT        : Human Resource
+POSITION          : Director
+BIRTHDAY          : 19991127
+ENTRY DATE        : 20081001
+EXPIRTATION DATE  : 20401011
+SALARY            : 35000
+EMPLOYMENT STATUS : On the work
+ATTRIBUTE         : Rich
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Salary
+  0  :  FINISH EDITING
+***************************
+Please enter the order number of the category that you want to edit further:
+6
+This is the original position of Allen: Director
+
+Please enter the new information:
+Tutor
+
+THE NEW INFORMATION OF Allen :
+ID                : 100000001
+NAME              : Allen
+GENDER            : M
+AGE               : 19
+DEPARTMENT        : Human Resource
+POSITION          : Tutor
+BIRTHDAY          : 19991127
+ENTRY DATE        : 20081001
+EXPIRTATION DATE  : 20401011
+SALARY            : 35000
+EMPLOYMENT STATUS : On the work
+ATTRIBUTE         : Rich
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Salary
+  0  :  FINISH EDITING
+***************************
+Please enter the order number of the category that you want to edit further:
+0
+EDIT SUCCESSFULLY!
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 08
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.5 (user input in blue)
+Please enter your username: ENGG1340
+Please enter your password: Programming
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 05
+*********************************************************
+
+Please enter a target salary:35030
+***********************************
+  1  :  Greater than
+  2  :  Lower than
+  3  :  Equal to
+  4  :  Greater than or equal to
+  5  :  Lower than or equal to
+***********************************
+Please enter a order number:1
+  ID                : 100000007
+  NAME              : Garry
+  GENDER            : M
+  AGE               : 43
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35032
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+  ID                : 100000008
+  NAME              : Helen
+  GENDER            : M
+  AGE               : 32
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991129
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35045
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+  ID                : 100000009
+  NAME              : Jack
+  GENDER            : M
+  AGE               : 53
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991124
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35065
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+  ID                : 100000010
+  NAME              : Kelly
+  GENDER            : M
+  AGE               : 25
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991122
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35045
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Total 4 records
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 08
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.6 (user input in blue)
+Please enter your username: ENGG1340
+Please enter your password: Programming
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 06
+*********************************************************
+
+***************************
+  1  :  ID
+  2  :  Name
+  3  :  Gender
+  4  :  Age
+  5  :  Department
+  6  :  Position
+  7  :  Birthday
+  8  :  Entry Date
+  9  :  Expiration Date
+ 10  :  Employment Status
+***************************
+Please enter the order number of the category that you want to search through:
+4
+Please enter the key words that you want to search for:
+19
+No.0
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Total 1 records.
+Please enter the sequence number of the employee you choose:0
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Rich
+
+
+Please enter the attribute you want to edit for him/her:Poor
+  ID                : 100000001
+  NAME              : Amy
+  GENDER            : M
+  AGE               : 19
+  DEPARTMENT        : Human Resource
+  POSITION          : Director
+  BIRTHDAY          : 19991127
+  ENTRY DATE        : 20081001
+  EXPIRTATION DATE  : 20401011
+  SALARY            : 35000
+  EMPLOYMENT STATUS : On the work
+  ATTRIBUTE         : Poor
+
+
+Edit the attribute successfully!
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 08
+*********************************************************
+
+Thanks for using Staff Management System!
+
+
+Sample test case 1.7 (user input in blue)
+Please enter your username: ENGG1340
+Please enter your password: Programming
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 07
+*********************************************************
+
+Please enter the month you want to search for:
+10
+There is no birthdays in this month.
+Entry dates in this month:
+  Amy  19
+   Birthday: 19991127
+   Entry date: 20081001
+   Expiration date: 20401011
+  Bill  21
+   Birthday: 19991126
+   Entry date: 20081001
+   Expiration date: 20401011
+  Cathy  22
+   Birthday: 19991123
+   Entry date: 20081001
+   Expiration date: 20401011
+  Dawn  56
+   Birthday: 19991124
+   Entry date: 20081001
+   Expiration date: 20401011
+  Ellen  43
+   Birthday: 19991121
+   Entry date: 20081001
+   Expiration date: 20401011
+  Frank  56
+   Birthday: 19991120
+   Entry date: 20081001
+   Expiration date: 20401011
+  Garry  43
+   Birthday: 19991127
+   Entry date: 20081001
+   Expiration date: 20401011
+  Helen  32
+   Birthday: 19991129
+   Entry date: 20081001
+   Expiration date: 20401011
+  Jack  53
+   Birthday: 19991124
+   Entry date: 20081001
+   Expiration date: 20401011
+  Kelly  25
+   Birthday: 19991122
+   Entry date: 20081001
+   Expiration date: 20401011
+  Leo  61
+   Birthday: 19991123
+   Entry date: 20081001
+   Expiration date: 20401011
+
+Expiration dates in this month:
+  Amy  19
+   Birthday: 19991127
+   Entry date: 20081001
+   Expiration date: 20401011
+  Bill  21
+   Birthday: 19991126
+   Entry date: 20081001
+   Expiration date: 20401011
+  Cathy  22
+   Birthday: 19991123
+   Entry date: 20081001
+   Expiration date: 20401011
+  Dawn  56
+   Birthday: 19991124
+   Entry date: 20081001
+   Expiration date: 20401011
+  Ellen  43
+   Birthday: 19991121
+   Entry date: 20081001
+   Expiration date: 20401011
+  Frank  56
+   Birthday: 19991120
+   Entry date: 20081001
+   Expiration date: 20401011
+  Garry  43
+   Birthday: 19991127
+   Entry date: 20081001
+   Expiration date: 20401011
+  Helen  32
+   Birthday: 19991129
+   Entry date: 20081001
+   Expiration date: 20401011
+  Jack  53
+   Birthday: 19991124
+   Entry date: 20081001
+   Expiration date: 20401011
+  Kelly  25
+   Birthday: 19991122
+   Entry date: 20081001
+   Expiration date: 20401011
+  Leo  61
+   Birthday: 19991123
+   Entry date: 20081001
+   Expiration date: 20401011
+
+*********************************************************
+******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
+*********************************************************
+
+ NUMBER : FUNCITON
+   01   : Add a new employee record
+   02   : Search for employees through basic information
+   03   : Fire an employee
+   04   : Edit the information of an employee
+   05   : Search for employees through salary
+   06   : Edit attribute of an existing employee
+   07   : Reminder
+   08   : Exit
+
+*********************************************************
+Please enter your order: 08
+*********************************************************
+
+Thanks for using Staff Management System!
