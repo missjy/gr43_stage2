@@ -18,16 +18,26 @@ When the scale of a small business enlarges, it is hard for employers to know em
 ### **:thought_balloon:Problem Setting:thought_balloon:**
 
 In order to cope with the problem mentioned above, a series of methods are adapted to build up our employee management system thus fulfill the expectation of this project. Within the project, we aim to gather basic information of employees from the user input and help to classify and manage the information. Our employee management system will include several functions below:
+
 Create a new employee record with the necessary information: ID, Name, Gender, Age, Role, Birthday, Entry Date, Expiration Date, Salary and Employment Status 
+
 Search for employees through ID, Name, Age, Role, Birthday and Employment Status
+
 Fire an employee and change his Employment Status
+
 Edit the details of an existing employee
+
 Search for employees with a salary higher or lower than a user input
+
 Allow adding user-defined attributes, the value of a new attribute of the existing employee should be empty or undefined
+
 Work as a reminder to show the upcoming date ranging from some employees’ birthdays to the contract expiration date
+
 Exit the system
 
+
 When using this system, the user should log in the system with his username and password. Then, a menu will be presented for him to choose the operation. In the end, he can choose to exit the system.
+
 
 
   
@@ -71,11 +81,11 @@ When using this system, the user should log in the system with his username and 
 
 ### **:thought_balloon:Input specifications:thought_balloon:**
 
-  -ID: A 9-digit string
-  -Name: A string without blank space
-  -Gender: A char which is “M” or “F”
-  -Age: An integer bigger than 0 and less than 100
-  -Department: A string without blank space
+  -ID: A 9-digit string  
+  -Name: A string without blank space  
+  -Gender: A char which is “M” or “F”  
+  -Age: An integer bigger than 0 and less than 100  
+  -Department: A string without blank space  
   -Position: A string without blank space
   -Birthday: A string which is in the format “yyyymmdd”
   -Entry Date: A string which is in the format “yyyymmdd”
