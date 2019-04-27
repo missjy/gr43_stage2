@@ -37,10 +37,13 @@ When using this system, the user should log in the system with his username and 
 
   1. **Add the information of a new employee** (function name as: add_Employee)
      This function is used to add a new employee to the system, which append all his/her information to the database. It requires the        administrator to enter the new employee's information piece by piece and initializes each person's employment status with 'on the        job'. After saving all the information into a form of a structure, which is standardized at first, **the system will print out the        information of the new employee**.
+     
   2. **Search for employees** (function name as: search_Employee)
      This function is used to search for existing employees through basic information. At first, it requires the administrator to enter      the sequence number of the categories, which will be provided as a menu accordingly. Then the system will ask the administrator to      enter the key word that he/she want to search about under the specfic category. After that, corresponding employees' information        will be printed out **and the number of corresponding records will be printed out at the end as well**.
+     
   3. **Fire an employee** (function name as: fire)
      This funcition is used to fire an employee by changing his/her employment status into 'Fired'. It will first **call the search          function** to make it easier for the administrator to get the target employee.
+     
   4. **Edit the information of an employee** (function name as: edit)
      This function is used for information update. It will first **call the search function** as well, and ask the user to enter the          number of the category that he/she want to edit then the new information. After editing, the updated information will be printed        out.
   5. **Search by salary level** (function name as: search_by_salary)
