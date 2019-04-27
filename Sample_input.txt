@@ -1,4 +1,4 @@
-Sample test case 1.1 (user input in bold)
+Sample test case 1.1 (user input in between ** and **)
 Please enter your username: **ENGG1340**
 Please enter your password: **Programming**
 *********************************************************
@@ -67,7 +67,7 @@ Please enter your order: **08**
 Thanks for using Staff Management System!
 
 
-Sample test case 1.2 (user input in bold)
+Sample test case 1.2 (user input in between ** and **)
 Please enter your username: **ENGG1340**
 Please enter your password: **Programming**
 *********************************************************
@@ -141,7 +141,7 @@ Please enter your order: **08**
 Thanks for using Staff Management System!
 
 
-Sample test case 1.3 (user input in blue)
+Sample test case 1.3 (user input in between ** and **)
 Please enter your username: **ENGG1340**
 Please enter your password: **Programming**
 *********************************************************
@@ -217,9 +217,9 @@ Please enter your order: **08**
 Thanks for using Staff Management System!
 
 
-Sample test case 1.4 (user input in bold)
+Sample test case 1.4 (user input in between ** and **)
 Please enter your username: **ENGG1340**
-Please enter your password: Programming
+Please enter your password: **Programming**
 *********************************************************
 ******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
 *********************************************************
@@ -235,10 +235,10 @@ Please enter your password: Programming
    08   : Exit
 
 *********************************************************
-Please enter your order: 04
+Please enter your order: **04**
 *********************************************************
 
-Please enter the name of the employee you choose for information editing:Amy
+Please enter the name of the employee you choose for information editing:**Amy**
 No.0
   ID                : 100000001
   NAME              : Amy
@@ -255,7 +255,7 @@ No.0
 
 
 Total 1 records
-Please enter the sequence number of the employee you want to edit:0
+Please enter the sequence number of the employee you want to edit:**0**
 THE INFORMATION OF Amy :
 ID                : 100000001
 NAME              : Amy
@@ -287,11 +287,11 @@ Please make sure the employee above is the one you want to edit :)
   0  :  FINISH EDITING
 ***************************
 Please enter the order number of the category that you want to edit:
-2
+**2**
 This is the original name of Amy: Amy
 
 Please enter the new information:
-Allen
+**Allen**
 
 THE NEW INFORMATION OF Allen :
 ID                : 100000001
@@ -321,11 +321,11 @@ ATTRIBUTE         : Rich
   0  :  FINISH EDITING
 ***************************
 Please enter the order number of the category that you want to edit further:
-6
+**6**
 This is the original position of Allen: Director
 
 Please enter the new information:
-Tutor
+**Tutor**
 
 THE NEW INFORMATION OF Allen :
 ID                : 100000001
@@ -355,7 +355,7 @@ ATTRIBUTE         : Rich
   0  :  FINISH EDITING
 ***************************
 Please enter the order number of the category that you want to edit further:
-0
+**0**
 EDIT SUCCESSFULLY!
 *********************************************************
 ******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
@@ -372,15 +372,15 @@ EDIT SUCCESSFULLY!
    08   : Exit
 
 *********************************************************
-Please enter your order: 08
+Please enter your order: **08**
 *********************************************************
 
 Thanks for using Staff Management System!
 
 
-Sample test case 1.5 (user input in blue)
-Please enter your username: ENGG1340
-Please enter your password: Programming
+Sample test case 1.5 (user input in between ** and **)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
 *********************************************************
 ******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
 *********************************************************
@@ -396,7 +396,7 @@ Please enter your password: Programming
    08   : Exit
 
 *********************************************************
-Please enter your order: 05
+Please enter your order: **05**
 *********************************************************
 
 Please enter a target salary:35030
@@ -407,7 +407,7 @@ Please enter a target salary:35030
   4  :  Greater than or equal to
   5  :  Lower than or equal to
 ***********************************
-Please enter a order number:1
+Please enter a order number:**1**
   ID                : 100000007
   NAME              : Garry
   GENDER            : M
@@ -480,15 +480,15 @@ Total 4 records
    08   : Exit
 
 *********************************************************
-Please enter your order: 08
+Please enter your order: **08**
 *********************************************************
 
 Thanks for using Staff Management System!
 
 
-Sample test case 1.6 (user input in blue)
-Please enter your username: ENGG1340
-Please enter your password: Programming
+Sample test case 1.6 (user input in between ** and **)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
 *********************************************************
 ******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
 *********************************************************
@@ -504,7 +504,7 @@ Please enter your password: Programming
    08   : Exit
 
 *********************************************************
-Please enter your order: 06
+Please enter your order: **06**
 *********************************************************
 
 ***************************
@@ -520,9 +520,9 @@ Please enter your order: 06
  10  :  Employment Status
 ***************************
 Please enter the order number of the category that you want to search through:
-4
+**4**
 Please enter the key words that you want to search for:
-19
+**19**
 No.0
   ID                : 100000001
   NAME              : Amy
@@ -539,7 +539,7 @@ No.0
 
 
 Total 1 records.
-Please enter the sequence number of the employee you choose:0
+Please enter the sequence number of the employee you choose:**0**
   ID                : 100000001
   NAME              : Amy
   GENDER            : M
@@ -554,7 +554,7 @@ Please enter the sequence number of the employee you choose:0
   ATTRIBUTE         : Rich
 
 
-Please enter the attribute you want to edit for him/her:Poor
+Please enter the attribute you want to edit for him/her:**Poor**
   ID                : 100000001
   NAME              : Amy
   GENDER            : M
@@ -585,15 +585,15 @@ Edit the attribute successfully!
    08   : Exit
 
 *********************************************************
-Please enter your order: 08
+Please enter your order: **08**
 *********************************************************
 
 Thanks for using Staff Management System!
 
 
-Sample test case 1.7 (user input in blue)
-Please enter your username: ENGG1340
-Please enter your password: Programming
+Sample test case 1.7 (user input in between ** and **)
+Please enter your username: **ENGG1340**
+Please enter your password: **Programming**
 *********************************************************
 ******  WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM  ******
 *********************************************************
@@ -609,11 +609,11 @@ Please enter your password: Programming
    08   : Exit
 
 *********************************************************
-Please enter your order: 07
+Please enter your order: **07**
 *********************************************************
 
 Please enter the month you want to search for:
-10
+**10**
 There is no birthdays in this month.
 Entry dates in this month:
   Amy  19
@@ -722,7 +722,7 @@ Expiration dates in this month:
    08   : Exit
 
 *********************************************************
-Please enter your order: 08
+Please enter your order: **08**
 *********************************************************
 
 Thanks for using Staff Management System!
