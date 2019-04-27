@@ -79,7 +79,7 @@ When using this system, the user should log in the system with his username and 
   6. **Edit attributes of an employee** (function name as: edit_attribute)
      This function is used to add attribute of a sepcific employee. For example, an employee's diseases and dietary restrictions are          essential to be added to the information of an employee.
   7. **Reminder** (function name as reminder)
-     This function works as its name, reminder. It asks the administrator to enter a month number, then prints out the corresponding          people in three groups, which are birthday, entry date and expiration date, whose dates are in the same year as the input.              Moreover, the employees'name will be printed out along with its birthday, entry date and expiration date so that it's clear for the      user to aquire.
+     This function works as its name, reminder. It asks the administrator to enter a month number, then prints out the corresponding          people in three groups, which are birthday, entry date and expiration date, whose dates are in the same month as the input.              Moreover, the employees'name will be printed out along with its birthday, entry date and expiration date so that it's clear for the      user to aquire. In this way, the administrator can get the upcoming date in the certain month in an obvious way.
 
 
 
