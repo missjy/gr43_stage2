@@ -32,7 +32,7 @@ When using this system, the user should log in the system with his username and 
   
 ### **:thought_balloon:Functionalities and Features:thought_balloon:**
   
-  ##**Functionalities**##
+  **:pin:Functionalities**
 
   1. **Add the information of a new employee** (function name as: add_Employee)  
      This function is used to add a new employee to the system, which append all his/her information to the database. It requires the        administrator to enter the new employee's information piece by piece and initializes each person's employment status with 'on the        job'. After saving all the information into a form of a structure, which is standardized at first, **the system will print out the        information of the new employee**.  
